@@ -22,7 +22,7 @@ def plot_sine_wave(freq, duration, sampling_rate):
 
 if __name__ == "__main__":
     # Example usage:
-    frequency = 5  # Hz
+    frequency = 10  # Hz
     wave_duration = 1  # seconds
     sample_rate = 1000  # samples per second
 
